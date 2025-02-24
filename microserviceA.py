@@ -20,10 +20,11 @@ while True:
         if len(term) > 0:
             print("Message Recieved: %s\n" % term)
 
+        term_lower = term.lower()
+
         if term == "exit":
             break
 
-        term_lower = term.lower()
         found = False
 
         for key in definitions:
