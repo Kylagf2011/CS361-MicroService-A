@@ -28,4 +28,4 @@
 
 
 ### UML sequence diagram
-Will add later.
+![image](https://github.com/user-attachments/assets/8acc2149-054c-4b39-b0b7-6ab12652f8e5)
